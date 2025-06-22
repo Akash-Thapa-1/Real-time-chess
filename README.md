@@ -1,10 +1,11 @@
-#Chess
-Building a platform where people can
-1.Sign up
-2.Create a new match/get connected to an existing match
-3.During the match, let users play moves
-4.Have a rating system that goes up and down similar to standard chess rating
-
+<h1>Chess</h1>
+Building a platform where people can <br/>
+<ol>
+<li>Sign up</li>
+<li>Create a new match/get connected to an existing match</li>
+<li>During the match, let users play moves</li>
+<li>Have a rating system that goes up and down similar to standard chess rating</li>
+</ol>
 
 #Tech stack
 1.Let's keep it simple
