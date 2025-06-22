@@ -1,6 +1,5 @@
 <h1>Chess</h1>
 <p>Building a platform where people can</p>
-<br/>
 <ol>
 <li>Sign up</li>
 <li>Create a new match/get connected to an existing match</li>
