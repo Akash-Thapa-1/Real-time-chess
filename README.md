@@ -1,5 +1,5 @@
 <h1>Chess</h1>
-Building a platform where people can 
+<h2>Building a platform where people can</h2> 
 <br/>
 <ol>
 <li>Sign up</li>
